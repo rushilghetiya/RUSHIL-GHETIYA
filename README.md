@@ -1,5 +1,5 @@
 Hi there 👋
-- 👋 Hi, I’m @rushilbghetiya
+- 👋 Hi, I’m @rushilghetiya
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning C,C++,Python and Web Development.
 - 💞️ I’m looking to collaborate on a Software Engineering and Web Development Internship.
